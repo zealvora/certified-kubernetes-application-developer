@@ -1,4 +1,4 @@
-# Certified Kubernetes Application Developer - KPLABS Course
+# Certified Kubernetes Application Developer - KPLABS 
 
 This is a central document which contains all the commands and code files used throughout the video course. 
 
