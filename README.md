@@ -18,7 +18,7 @@ https://www.udemy.com/course/certified-kubernetes-application-developer/?couponC
 | 7 | [Multi-Container PODS][PlDg] |
 
 
-   [PlDa]: <https://github.com/zealvora/certified-kubernetes-application-developer/tree/master/Domain%201%20-%20Core%20Concept>
+   [PlDa]: <https://github.com/zealvora/certified-kubernetes-administrator/tree/master/Domain%201%20-%20Core%20Concepts>
    [PlDb]: <https://github.com/zealvora/certified-kubernetes-administrator/tree/master/Domain%202%20-%20Application%20LifeCycle%20Management>
    [PlDc]: <https://github.com/zealvora/certified-kubernetes-administrator/tree/master/Domain%203%20-%20Networking>
    [PlDd]: <https://github.com/zealvora/certified-kubernetes-administrator/tree/master/Domain%204%20-%20Scheduling>
