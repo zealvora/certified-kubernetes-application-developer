@@ -16,8 +16,8 @@ https://www.udemy.com/course/certified-kubernetes-administrator/?couponCode=LEAR
 
 
 
-   [PlDa]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%201%20-%20Core%20Concepts/install-kubectl.md>
-   [PlDb]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%201%20-%20Core%20Concepts/minikube-install-windows.md>
-   [PlDc]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%201%20-%20Core%20Concepts/minikube-install-linux.md>
-   [PlDd]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%201%20-%20Core%20Concepts/first-pod-yaml.md>
+   [PlDa]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%201%20-%20Core%20Concepts/first-pod-yaml.md>
+   [PlDb]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%201%20-%20Core%20Concepts/install-kubectl.md>
+   [PlDc]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%201%20-%20Core%20Concepts/minikube-install-linux.md>
+   [PlDd]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%201%20-%20Core%20Concepts/minikube-install-windows.md>
 
