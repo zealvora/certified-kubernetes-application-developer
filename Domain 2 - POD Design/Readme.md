@@ -17,10 +17,8 @@ https://www.udemy.com/course/certified-kubernetes-administrator/?couponCode=LEAR
 
 
 
-   [PlDa]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%202%20-%20Application%20LifeCycle%20Management/labels.yaml>
-   [PlDb]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%202%20-%20Application%20LifeCycle%20Management/replicaset.yaml>
-   [PlDc]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%202%20-%20Application%20LifeCycle%20Management/deployment.yaml>
-  [PlDd]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%202%20-%20Application%20LifeCycle%20Management/livenessprobe.yaml>
-   [PlDe]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%202%20-%20Application%20LifeCycle%20Management/readinessprobe.yaml>
-   [PlDf]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%202%20-%20Application%20LifeCycle%20Management/jobs.yaml>
-   [PlDg]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%202%20-%20Application%20LifeCycle%20Management/cronjob.yaml>
+   [PlDa]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%202%20-%20POD%20Design/labels.yaml>
+   [PlDb]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%202%20-%20POD%20Design/replicaset.yaml>
+   [PlDc]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%202%20-%20POD%20Design/deployment.yaml>
+   [PlDf]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%202%20-%20POD%20Design/jobs.yaml>
+   [PlDg]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%202%20-%20POD%20Design/cronjob.yaml>
