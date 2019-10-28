@@ -1,1 +1,21 @@
-[To Fill]
+# Domain 4 - Observability
+
+The code mentioned in this document are used in the Certified Kubernetes Application Developer 2019 course.
+
+https://www.udemy.com/course/certified-kubernetes-administrator/?couponCode=LEARNING
+
+
+# Video-Document Mapper
+
+| Sr No | Document Link |
+| ------ | ------ |
+| 1 | [Liveness Probe][PlDa] |
+| 2 | [Readiness Probe][PlDb] |
+
+
+
+
+
+   [PlDa]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%205%20-%20Observability/livenessprobe.yaml>
+   [PlDb]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%205%20-%20Observability/readinessprobe.yaml>
+
