@@ -11,16 +11,13 @@ https://www.udemy.com/course/certified-kubernetes-administrator/?couponCode=LEAR
 | ------ | ------ |
 | 1 | [Creating our first Service and Endpoint][PlDa] |
 | 2 | [Service Type: NodePort][PlDb] |
-| 3 | Network Security Policies][PlDc] 
-| 4 | [Namespace][PlDf] |
+| 3 | [Network Security Policies][PlDc] 
 
 
 
 
-   [PlDa]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%202%20-%20Application%20LifeCycle%20Management/labels.yaml>
-   [PlDb]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%202%20-%20Application%20LifeCycle%20Management/replicaset.yaml>
-   [PlDc]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%202%20-%20Application%20LifeCycle%20Management/deployment.yaml>
-  [PlDd]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%202%20-%20Application%20LifeCycle%20Management/livenessprobe.yaml>
-   [PlDe]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%202%20-%20Application%20LifeCycle%20Management/readinessprobe.yaml>
-   [PlDf]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%202%20-%20Application%20LifeCycle%20Management/jobs.yaml>
-   [PlDg]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%202%20-%20Application%20LifeCycle%20Management/cronjob.yaml>
+
+   [PlDa]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%203%20-%20Services%20and%20Networking/serviceandendpoints.md>
+   [PlDb]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%203%20-%20Services%20and%20Networking/nodeport.yaml>
+   [PlDc]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%203%20-%20Services%20and%20Networking/nsp-deny-pod.yaml>
+
