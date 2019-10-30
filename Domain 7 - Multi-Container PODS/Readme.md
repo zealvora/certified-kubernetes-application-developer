@@ -2,7 +2,7 @@
 
 The code mentioned in this document are used in the Certified Kubernetes Application Developer 2019 course.
 
-https://www.udemy.com/course/certified-kubernetes-administrator/?couponCode=LEARNING
+https://www.udemy.com/course/mastering-certified-kubernetes-application-developer/
 
 
 # Video-Document Mapper
