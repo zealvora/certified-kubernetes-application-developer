@@ -10,9 +10,14 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | Sr No | Document Link |
 | ------ | ------ |
 | 1 | [Adapter Container][PlDa] |
+| 2 | [Ambssador Container][PlDb] |
 
 
 
 
-   [PlDa]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%207%20-%20Multi-Container%20PODS/adapter.yaml>
+[PlDa]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%207%20-%20Multi-Container%20PODS/adapter.yaml>
+   
+[PlDb]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%207%20-%20Multi-Container%20PODS/ambassador.yaml>
+ 
+ 
 
