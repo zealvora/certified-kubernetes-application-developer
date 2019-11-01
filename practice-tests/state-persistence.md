@@ -41,7 +41,7 @@ Following is the configuration file for an application. Create a ConfigMap based
         timeout connect 5000ms
         timeout client 50000ms
         timeout server 50000ms
-
+</details>
 
  ### Question 4: POD Security Policies
  
