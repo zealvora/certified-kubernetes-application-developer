@@ -31,6 +31,9 @@ c. Mount the secret to the pod so that it is available in the path of /etc/secre
 
 ### Question 3:  ConfigMaps
 
+<details><summary>Expand The Question </summary>
+<p>
+       
 Following is the configuration file for an application. Create a ConfigMap based on the configuration file. Mount the configmap in such a way that the configuration file is accessible in the location of /etc/app.config
 
     defaults
@@ -40,9 +43,9 @@ Following is the configuration file for an application. Create a ConfigMap based
         timeout server 50000ms
 
 
- ### Question 1: POD Security Policies
+ ### Question 4: POD Security Policies
  
- <details><summary>Expand The Question </summary>
+<details><summary>Expand The Question </summary>
 <p>
  
  Create a POD named kplabs-security with the following configuration:
