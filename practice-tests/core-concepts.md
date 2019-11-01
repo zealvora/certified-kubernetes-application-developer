@@ -4,6 +4,10 @@
 <p>
 
 
-Create a pod with the name of kplabs-nginx. The pod should be launched from an image of ``` mykplabs/kubernetes:nginx``` . The name of the container should be mycontainer
+a. Create a pod with the name of kplabs-nginx. 
+
+b. The pod should be launched from an image of ``` mykplabs/kubernetes:nginx``` 
+
+c. The name of the container should be mycontainer
 
 </details>
