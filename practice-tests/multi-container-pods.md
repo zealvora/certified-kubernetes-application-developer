@@ -66,3 +66,74 @@ Verify if you can perform CURL from busybox pod towards the ambassador pod on po
 
 </details>
 
+
+### Question 3: Adapter Pattern
+
+<details><summary>Expand The Question </summary>
+<p>
+
+Create a pod named kplabs-adapter-logging.
+
+The Pod should have a container running from the busybox image with the following arguments:
+
+    - /bin/sh
+    - -c
+    - >
+      i=0;
+      while true;
+      do
+        echo "$i: $(date)" >> /var/log/1.log;
+        echo "$(date) INFO $i" >> /var/log/2.log;
+        i=$((i+1));
+        sleep 1;
+      done
+
+Create and mount a volume under the mount path of /var/log of the first container. The volume should be removed as soon as the pod is deleted. 
+
+Create a second container in the pod. It should be launched from the following image. 
+
+```sh
+k8s.gcr.io/fluentd-gcp:1.30
+```
+
+The container should have an environment variable named FLUENTD_ARGS with following values:
+```sh
+-c /etc/fluentd-config/fluentd.conf
+```
+The second container should also have the same volume as the first container mounted on the path of /var/log
+
+The second container should also have a fluentd configuration (mentioned in below configmap) available in the following path:
+```sh 
+/etc/fluentd-config/fluentd.conf
+```
+
+Create a ConfigMap object with the name of fluentd-config. The ConfigMap should have the following configuration:
+
+```sh
+    <source>
+      type tail
+      format none
+      path /var/log/1.log
+      pos_file /var/log/1.log.pos
+      tag PHP
+    </source>
+
+    <source>
+      type tail
+      format none
+      path /var/log/2.log
+      pos_file /var/log/2.log.pos
+      tag JAVA
+    </source>
+
+    <match **>
+       @type file
+       path /var/log/fluent/access
+    </match>
+```
+Verify if you can see log files with the tag of PHP and JAVA under the following directory
+```sh 
+/var/log/fluent/access 
+```
+</details>
+
