@@ -14,3 +14,14 @@ Create a deployment named kplabs-service. The deployment should have three repli
 
 Create a deployment named deployment-manual. Launch 3 replicas of nginx image. Create a service named service-manual. Create an endpoint with the IP address of all the pods of deployment-manual and associate it with service-manual. Verify the endpoints of the service to check if IP addresses have been populated.
 </details>
+
+
+### Question 3: Namespace
+
+<details><summary>Expand The Question </summary>
+<p>
+Create a pod named kplabs-namespace. The pod should be part of namespace kplabs.
+The pod should make use of redis image. Expose port 6379.
+</details>
+
+
