@@ -26,15 +26,8 @@ Create a deployment named kplabs-deployment. The deployment should be launched f
 Create a deployment named kplabs-updates. The deployment should be launched from nginx image. There should be two  replicas. Verify the status of the deployment. As part of rolling update, update the image to nginx2:alpine. Verify the status of deployment. Perform a rollback to the previous versio. Verify the status of deployment.
 </details>
 
-### Question 4: Readiness Probe
 
-<details><summary>Expand The Question </summary>
-<p>
-
-Launch a pod from the nginx image. Create a readiness probe for the pod.
-</details>
-
-### Question 5: Labels and Selectors
+### Question 4: Labels and Selectors
 
 <details><summary>Expand The Question </summary>
 <p>
@@ -43,7 +36,7 @@ Create a deployment named kplabs-selector. The pods should be launched from ngin
 
 </details>
 
-### Question 6:  CronJob
+### Question 5:  CronJob
 
 <details><summary>Expand The Question </summary>
 <p>
