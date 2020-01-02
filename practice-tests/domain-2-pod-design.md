@@ -23,7 +23,7 @@ Create a deployment named kplabs-deployment. The deployment should be launched f
 <details><summary>Expand The Question </summary>
 <p>
 
-Create a deployment named kplabs-updates. The deployment should be launched from nginx image. There should be two  replicas. Verify the status of the deployment. As part of rolling update, update the image to nginx2:alpine. Verify the status of deployment. Perform a rollback to the previous versio. Verify the status of deployment.
+Create a deployment named kplabs-updates. The deployment should be launched from nginx image. There should be two  replicas. Verify the status of the deployment. As part of rolling update, update the image to nginx2:alpine. Verify the status of deployment. Perform a rollback to the previous version. Verify the status of deployment.
 </details>
 
 
@@ -44,3 +44,13 @@ Create a deployment named kplabs-selector. The pods should be launched from ngin
 Create a job named kplabs-job. The job should run every minute and should print out the current date.
 
 </details>
+
+### Question 6:  CronJob
+
+<details><summary>Expand The Question </summary>
+<p>
+  
+Create a job named kplabs-cron. The job should run every minute and should run following command "curl kplabs.in/ping". Terminate the container within 10 seconds if it does not run.
+
+</details>
+
