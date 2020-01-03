@@ -54,3 +54,11 @@ Create a job named kplabs-cron. The job should run every minute and should run f
 
 </details>
 
+
+### Question 7:  Deployment Configuration
+<details><summary>Expand The Question </summary>
+<p>
+  
+Create a deployment named kplabs-configuration. The deployment should have 3 replicas of nginx image. Once the deployment is created, verify the maxSurge and maxUnavailable parameters. Edit the the maxUnavailable to 0 and maxSurge to 30% on the live deployment object. Once those two parameters are modified, change the image of the deployment to nginx:alpine. Make sure to use the record instruction on rolling updates.
+ 
+ </details>
