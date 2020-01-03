@@ -17,6 +17,6 @@ Create a pod named kplabs-quota. The pod should have following configuration:
 <details><summary>Expand The Question </summary>
 <p>
 
-Create a secret named kplabs-secret. The secret should have content where user=admin and pass=12345. Create a pod from the nginx image. Mount the secret as environment variables in the pod.
+Create a secret named kplabs-secret. The secret should have content where user=admin and pass=12345. Create a pod from the nginx image. Mount the secret as environment variables in the pod. The username should be available as DB_USER and password should be available as DB_PASSWORD inside the pod
 
  </details>
