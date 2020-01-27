@@ -2,7 +2,7 @@
 
 This is a central document which contains all the commands and code files used throughout the video course. 
 
-https://www.udemy.com/course/mastering-certified-kubernetes-application-developer/
+https://www.udemy.com/course/mastering-certified-kubernetes-application-developer/?couponCode=CKAD-COUPON
 
 
 # Exam Domains
