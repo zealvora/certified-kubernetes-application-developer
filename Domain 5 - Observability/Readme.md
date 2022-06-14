@@ -1,6 +1,6 @@
 # Domain 4 - Observability
 
-The code mentioned in this document are used in the Certified Kubernetes Application Developer 2019 course.
+The code mentioned in this document are used in the Certified Kubernetes Application Developer 2022 course.
 
 https://www.udemy.com/course/mastering-certified-kubernetes-application-developer/
 
@@ -18,4 +18,3 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 
    [PlDa]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%205%20-%20Observability/livenessprobe.yaml>
    [PlDb]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%205%20-%20Observability/readinessprobe.yaml>
-

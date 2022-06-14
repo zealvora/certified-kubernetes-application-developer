@@ -1,9 +1,19 @@
-# Certified Kubernetes Application Developer - KPLABS 
+# Certified Kubernetes Application Developer - KPLABS
 
-This is a central document which contains all the commands and code files used throughout the video course. 
+This is a central document which contains all the commands and code files used throughout the video course.
 
-https://www.udemy.com/course/mastering-certified-kubernetes-application-developer/?couponCode=CKAD-COUPON
+https://www.udemy.com/course/mastering-certified-kubernetes-application-developer/?referralCode=3A549BA24AC8ED6597DF
 
+We also have a new Discord community for any support related discussion as well as to connect to other students doing the same course. Feel free to join the community.
+
+```sh
+http://kplabs.in/chat
+```
+Welcome to the community again and we look forward to see you certified! :)
+
+<p align="center">
+  <img width="460" height="300" src="https://i.ibb.co/b3jFkkk/discord-terraform.png">
+</p>
 
 # Exam Domains
 
@@ -11,7 +21,7 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | ------ | ------ |
 | 1 | [Core Concepts][PlDa] |
 | 2 | [POD Design][PlDb] |
-| 3 | [Services and Networking][PlDc] 
+| 3 | [Services and Networking][PlDc]
 | 4 | [Configuration][PlDd] |
 | 5 | [Observability][PlDe] |
 | 6 | [State Persistence][PlDf] |
@@ -25,4 +35,3 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
    [PlDe]: <https://github.com/zealvora/certified-kubernetes-application-developer/tree/master/Domain%205%20-%20Observability>
    [PlDf]: <https://github.com/zealvora/certified-kubernetes-application-developer/tree/master/Domain%206%20-%20State%20Persistence>
    [PlDg]: <https://github.com/zealvora/certified-kubernetes-application-developer/tree/master/Domain%207%20-%20Multi-Container%20PODS>
-

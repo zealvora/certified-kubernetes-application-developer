@@ -1,8 +1,8 @@
 # Domain 2 - POD Design
 
-The code mentioned in this document are used in the Certified Kubernetes Application Developer 2019 course.
+The code mentioned in this document are used in the Certified Kubernetes Application Developer 2022 course.
 
-https://www.udemy.com/course/mastering-certified-kubernetes-application-developer/
+https://www.udemy.com/course/mastering-certified-kubernetes-application-developer/?referralCode=3A549BA24AC8ED6597DF
 
 
 # Video-Document Mapper
@@ -11,7 +11,7 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | ------ | ------ |
 | 1 | [Implementing Labels and Selectors][PlDa] |
 | 2 | [Creating our first ReplicaSet][PlDb] |
-| 3 | [Creating our first deployment][PlDc] 
+| 3 | [Creating our first deployment][PlDc]
 | 4 | [Creating first Job in Kubernetes][PlDf] |
 | 5 | [CronJobs][PlDg] |
 
