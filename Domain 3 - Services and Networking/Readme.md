@@ -22,15 +22,15 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 12 | [Network Security Policies][PlDl] |
 
 
-[PlDa]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%203%20-%20Services%20and%20Networking/serviceandendpoints.md>
-[PlDb]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%203%20-%20Services%20and%20Networking/service-selector.md>
-[PlDc]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%203%20-%20Services%20and%20Networking/nodeport.md>
-[PlDd]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%203%20-%20Services%20and%20Networking/loadbalancer.md>
-[PlDe]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%203%20-%20Services%20and%20Networking/service-manifest-cli.md>
-[PlDf]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%203%20-%20Services%20and%20Networking/install-helm.md>      
-[PlDg]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%203%20-%20Services%20and%20Networking/first-helm-chart.md>
-[PlDh]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%203%20-%20Services%20and%20Networking/ingress.md>
-[PlDi]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%203%20-%20Services%20and%20Networking/deploy-ingress-controller.md>
-[PlDj]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%203%20-%20Services%20and%20Networking/namespace.md>
-[PlDk]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%203%20-%20Services%20and%20Networking/service-account.md>
-[PlDl]: <https://github.com/zealvora/certified-kubernetes-administrator/blob/master/Domain%203%20-%20Services%20and%20Networking/nsp-deny-pod.yaml>
+[PlDa]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%203%20-%20Services%20and%20Networking/serviceandendpoints.md>
+[PlDb]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%203%20-%20Services%20and%20Networking/service-selector.md>
+[PlDc]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%203%20-%20Services%20and%20Networking/nodeport.md>
+[PlDd]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%203%20-%20Services%20and%20Networking/loadbalancer.md>
+[PlDe]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%203%20-%20Services%20and%20Networking/service-manifest-cli.md>
+[PlDf]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%203%20-%20Services%20and%20Networking/install-helm.md>      
+[PlDg]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%203%20-%20Services%20and%20Networking/first-helm-chart.md>
+[PlDh]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%203%20-%20Services%20and%20Networking/ingress.md>
+[PlDi]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%203%20-%20Services%20and%20Networking/deploy-ingress-controller.md>
+[PlDj]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%203%20-%20Services%20and%20Networking/namespace.md>
+[PlDk]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%203%20-%20Services%20and%20Networking/service-account.md>
+[PlDl]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%203%20-%20Services%20and%20Networking/nsp-deny-pod.yaml>
