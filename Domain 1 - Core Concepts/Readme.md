@@ -19,10 +19,10 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 8 | [Generating Pod Manifests via CLI][PlDh] |
 
    [PlDa]: <./install-kubectl.md>
-   [PlDb]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%201%20-%20Core%20Concepts/minikube-install-linux.md>
-   [PlDc]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%201%20-%20Core%20Concepts/minikube-install-windows.md>
-   [PlDd]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%201%20-%20Core%20Concepts/basic-pods.md>
-   [PlDe]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%201%20-%20Core%20Concepts/first-pod-yaml.md>
-   [PlDf]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%201%20-%20Core%20Concepts/cmd-args.md>
-   [PlDg]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%201%20-%20Core%20Concepts/expose-pods.md>
-   [PlDh]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%201%20-%20Core%20Concepts/pod-manifest-cli.md>
+   [PlDb]: <./minikube-install-linux.md>
+   [PlDc]: <./minikube-install-windows.md>
+   [PlDd]: <./basic-pods.md>
+   [PlDe]: <./first-pod-yaml.md>
+   [PlDf]: <./cmd-args.md>
+   [PlDg]: <./expose-pods.md>
+   [PlDh]: <./pod-manifest-cli.md>
