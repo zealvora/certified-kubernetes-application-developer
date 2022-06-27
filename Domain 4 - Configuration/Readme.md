@@ -17,6 +17,6 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 
 
 
-   [PlDa]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%204%20-%20Configuration/secret-data.yaml>
-   [PlDb]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%204%20-%20Configuration/mounting-secrets.md>
-   [PlDc]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%204%20-%20Configuration/request-limits.yaml>
+   [PlDa]: <./secret-data.yaml>
+   [PlDb]: <./mounting-secrets.md>
+   [PlDc]: <./request-limits.yaml>

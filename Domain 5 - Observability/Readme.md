@@ -16,5 +16,5 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 
 
 
-   [PlDa]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%205%20-%20Observability/livenessprobe.yaml>
-   [PlDb]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%205%20-%20Observability/readinessprobe.yaml>
+   [PlDa]: <./livenessprobe.yaml>
+   [PlDb]: <./readinessprobe.yaml>

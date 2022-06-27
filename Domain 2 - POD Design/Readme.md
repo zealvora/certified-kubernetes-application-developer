@@ -17,8 +17,8 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 
 
 
-   [PlDa]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%202%20-%20POD%20Design/labels.yaml>
-   [PlDb]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%202%20-%20POD%20Design/replicaset.yaml>
-   [PlDc]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%202%20-%20POD%20Design/deployment.yaml>
-   [PlDf]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%202%20-%20POD%20Design/jobs.yaml>
-   [PlDg]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%202%20-%20POD%20Design/cronjob.yaml>
+   [PlDa]: <./labels.yaml>
+   [PlDb]: <./replicaset.yaml>
+   [PlDc]: <./deployment.yaml>
+   [PlDf]: <./jobs.yaml>
+   [PlDg]: <./cronjob.yaml>

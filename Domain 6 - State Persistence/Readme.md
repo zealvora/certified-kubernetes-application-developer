@@ -15,7 +15,7 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 4 | [Security Contexts][PlDd]
 
 
-   [PlDa]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%206%20-%20State%20Persistence/pod-volume.yaml>
-   [PlDb]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%206%20-%20State%20Persistence/pvandpvc.md>
-   [PlDc]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%206%20-%20State%20Persistence/pod-configmap.yaml>
-   [PlDd]: <https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/Domain%206%20-%20State%20Persistence/pod-securitycontext.yaml>
+   [PlDa]: <./pod-volume.yaml>
+   [PlDb]: <./pvandpvc.md>
+   [PlDc]: <./pod-configmap.yaml>
+   [PlDd]: <./pod-securitycontext.yaml>
