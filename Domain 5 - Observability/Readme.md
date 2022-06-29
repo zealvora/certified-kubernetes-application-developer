@@ -11,12 +11,14 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | ------ | ------ |
 | 1 | [Liveness Probe][PlDa] |
 | 2 | [Readiness Probe][PlDb] |
-| 3 | [Kubernetes Events][PlDc] |
-| 4 | [Field selectors][PlDd] |
+| 3 | [Deploying Metric Server][PlDc] |
+| 4 | [Kubernetes Events][PlDd] |
+| 5 | [Field selectors][PlDe] |
 
 
 
    [PlDa]: <./livenessprobe.yaml>
    [PlDb]: <./readinessprobe.yaml>
-   [PlDc]: <./events.md>
-   [PlDd]: <./field-selector.md>
+   [PlDc]: <./install-metric-server.md>  
+   [PlDd]: <./events.md>
+   [PlDe]: <./field-selector.md>
