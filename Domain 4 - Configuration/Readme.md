@@ -17,6 +17,6 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 
 
 
-   [PlDa]: <./secret-data.yaml>
+   [PlDa]: <./secret-data.md>
    [PlDb]: <./mounting-secrets.md>
    [PlDc]: <./request-limits.yaml>
