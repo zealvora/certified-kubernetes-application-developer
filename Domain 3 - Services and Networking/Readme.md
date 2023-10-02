@@ -18,8 +18,10 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 8 | [Creating Ingress Resource][PlDh] |
 | 9 | [Deploying  Ingress Controller][PlDi] |
 | 10 | [Kubernetes Namespace][PlDj] |
-| 11 | [Service Accounts][PlDk] |
-| 12 | [Network Security Policies][PlDl] |
+| 11 | [Overview of Service Accounts][PlDk] |
+| 12 | [Service Accounts - Points to Note][PlDl] |
+| 13 | [Service Accounts- Practical Scenerios][PlDm] |
+| 14 | [Network Security Policies][PlDn] |
 
 
 [PlDa]: <./serviceandendpoints.md>
@@ -33,4 +35,6 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 [PlDi]: <./deploy-ingress-controller.md>
 [PlDj]: <./namespace.md>
 [PlDk]: <./service-account.md>
-[PlDl]: <./nsp-deny-pod.yaml>
+[PlDl]: <./sa-pointers.md>
+[PlDm]: <./sa-practical.md>
+[PlDn]: <./nsp-deny-pod.yaml>
