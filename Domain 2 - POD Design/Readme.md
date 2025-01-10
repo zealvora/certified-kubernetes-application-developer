@@ -10,18 +10,20 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | Sr No | Document Link |
 | ------ | ------ |
 | 1 | [Implementing Labels and Selectors][PlDa] |
-| 2 | [Creating our first ReplicaSet][PlDb] |
-| 3 | [Creating our first Deployment][PlDc]
-| 4 | [Rolling Back Deployments][PlDd]
-| 5 | [Generating Deployment Manifests via CLI][PlDe] |
-| 6 | [maxSurge and maxUnavailable][PlDf]
-| 7 | [Important Pointers - Deployments][PlDg]
-| 8 | [Creating first Job in Kubernetes][PlDh]
-| 9 | [CronJobs][PlDi]
+| 2 | [ReplicaSet - Practical][PlDb] |
+| 3 | [Challenges with ReplicaSets][PlDb1] |
+| 4 | [Creating our first Deployment][PlDc]
+| 5 | [Rolling Back Deployments][PlDd]
+| 6 | [Generating Deployment Manifests via CLI][PlDe] |
+| 7 | [maxSurge and maxUnavailable][PlDf]
+| 8 | [Important Pointers - Deployments][PlDg]
+| 9 | [Creating first Job in Kubernetes][PlDh]
+| 10 | [CronJobs][PlDi]
 
  
    [PlDa]: <./labels.md>
    [PlDb]: <./replicaset.md>
+   [PlDb1]: <./rs-challenges.md>
    [PlDc]: <./deployment.md>
    [PlDd]: <./rollback-deployment.md> 
    [PlDe]: <./deployment-cli.md>
