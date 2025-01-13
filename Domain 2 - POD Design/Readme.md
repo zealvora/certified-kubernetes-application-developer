@@ -17,7 +17,7 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 6 | [DaemonSet - Practical][PlDf]
 | 7 | [Creating first Job in Kubernetes][PlDg]
 | 8 | [CronJobs][PlDh]
-
+| 9 | [Requests and Limits][PlDi]
  
    [PlDa]: <./labels.md>
    [PlDb]: <./replicaset.md>
@@ -27,3 +27,4 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
    [PlDf]: <./daemonset.md> 
    [PlDg]: <./jobs.yaml>
    [PlDh]: <./cronjob.yaml>
+   [PlDi]: <./requests-limits.md>
