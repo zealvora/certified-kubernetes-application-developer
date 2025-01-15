@@ -11,11 +11,13 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | ------ | ------ |
 | 1 | [Creating Volumes in Kubernetes][PlDa] |
 | 2 | [PersistentVolume and PersistentVolumeClaim][PlDb] |
-| 3 | [ConfigMaps][PlDc]
-| 4 | [Security Contexts][PlDd]
+| 3 | [Practical 1 - ConfigMaps (Creation)][PlDc]
+| 4 | [Practical 2 - ConfigMaps (Mounting to Pods)][PlDd]
+| 5 | [Security Contexts][PlDe]
 
 
    [PlDa]: <./pod-volume.yaml>
    [PlDb]: <./pvandpvc.md>
-   [PlDc]: <./pod-configmap.yaml>
-   [PlDd]: <./pod-securitycontext.yaml>
+   [PlDc]: <./configmap-01.md>
+   [PlDd]: <./configmap-02.md>
+   [PlDe]: <./pod-securitycontext.yaml>
