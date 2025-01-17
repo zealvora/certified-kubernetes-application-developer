@@ -15,9 +15,9 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 4 | [Deployments - Practical][PlDd]
 | 5 | [maxSurge and maxUnavailable][PlDe]
 | 6 | [DaemonSet - Practical][PlDf]
-| 7 | [Creating first Job in Kubernetes][PlDg]
-| 8 | [CronJobs][PlDh]
-| 9 | [Requests and Limits][PlDi]
+| 7 | [Practical - Jobs][PlDg]
+| 8 | [Jobs Field - ActiveDeadLineSeconds][PlDh]
+| 9 | [Practical - CronJob][PlDi]
  
    [PlDa]: <./labels.md>
    [PlDb]: <./replicaset.md>
@@ -26,5 +26,5 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
    [PlDe]: <./maxSurge-maxUnavailable.md> 
    [PlDf]: <./daemonset.md> 
    [PlDg]: <./jobs.yaml>
-   [PlDh]: <./cronjob.yaml>
-   [PlDi]: <./requests-limits.md>
+   [PlDh]: <./activeDeadlineSeconds.md>
+   [PlDi]: <./cronjob.md>
