@@ -13,10 +13,10 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 3 | [Service Type: ClusterIP][PlDc] |
 | 4 | [Practical - NodePort][PlDd] |
 | 5 | [Practical - Load Balancer][PlDe]
-| 6 | [Installing Helm][PlDf] |
-| 7 | [Deploying our first Helm Chart][PlDg] |
-| 8 | [Creating Ingress Resource][PlDh] |
-| 9 | [Deploying  Ingress Controller][PlDi] |
+| 6 | [Practical - Ingress Resource][PlDf] |
+| 7 | [Practical - Ingress Controller][PlDg] |
+| 8 | [Installing Helm][PlDh] |
+| 9 | [Deploying our first Helm Chart][PlDi] |
 | 10 | [Kubernetes Namespace][PlDj] |
 | 11 | [Overview of Service Accounts][PlDk] |
 | 12 | [Service Accounts - Points to Note][PlDl] |
@@ -29,10 +29,10 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 [PlDc]: <./cluster-ip.md>
 [PlDd]: <./nodeport.md>
 [PlDe]: <./loadbalancer.md>
-[PlDf]: <./install-helm.md>      
-[PlDg]: <./first-helm-chart.md>
-[PlDh]: <./ingress.md>
-[PlDi]: <./deploy-ingress-controller.md>
+[PlDf]: <./ingress.md>
+[PlDg]: <./ingress-controller.md>
+[PlDh]: <./install-helm.md>      
+[PlDi]: <./first-helm-chart.md>
 [PlDj]: <./namespace.md>
 [PlDk]: <./service-account.md>
 [PlDl]: <./sa-pointers.md>
