@@ -21,7 +21,9 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 11 | [Overview of Service Accounts][PlDk] |
 | 12 | [Service Accounts - Points to Note][PlDl] |
 | 13 | [Service Accounts- Practical Scenerios][PlDm] |
-| 14 | [Network Security Policies][PlDn] |
+| 14 | [Structure of Network Policy][PlDn] |
+| 15 | [Practical - Network Policies][PlDo] |
+| 16 | [Network Policies - Except, Port and Protocol][PlDp] |
 
 
 [PlDa]: <./service-endpoints.md>
@@ -37,4 +39,6 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 [PlDk]: <./service-account.md>
 [PlDl]: <./sa-pointers.md>
 [PlDm]: <./sa-practical.md>
-[PlDn]: <./nsp-deny-pod.yaml>
+[PlDn]: <./netpol-01.md>
+[PlDo]: <./netpol-practical.md>
+[PlDp]: <./netpol-02.md>
