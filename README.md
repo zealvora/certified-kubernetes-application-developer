@@ -20,10 +20,10 @@ Welcome to the community again and we look forward to see you certified! :)
 | Domain | Document Link |
 | ------ | ------ |
 | 1 | [Core Concepts][PlDa] |
-| 2 | [POD Design][PlDb] |
+| 2 | [Application Design and Build][PlDb] |
 | 3 | [Services and Networking][PlDc]
 | 4 | [Configuration][PlDd] |
-| 5 | [Observability][PlDe] |
+| 5 | [Application Observability and Maintenance][PlDe] |
 | 6 | [State Persistence][PlDf] |
 | 7 | [Multi-Container PODS][PlDg] |
 
