@@ -11,7 +11,7 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | ------ | ------ |
 | 1 | [Liveness Probe][PlDa] |
 | 2 | [Readiness Probe][PlDb] |
-| 3 | [Deploying Metric Server][PlDc] |
+| 3 | [Practical - Metrics Server][PlDc] |
 | 4 | [Kubernetes Events][PlDd] |
 | 5 | [Field selectors][PlDe] |
 

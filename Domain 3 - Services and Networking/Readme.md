@@ -16,7 +16,7 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 6 | [Practical - Ingress Resource][PlDf] |
 | 7 | [Practical - Ingress Controller][PlDg] |
 | 8 | [Installing Helm][PlDh] |
-| 9 | [Deploying our first Helm Chart][PlDi] |
+| 9 | [Helm Practical][PlDi] |
 | 10 | [Kubernetes Namespace][PlDj] |
 | 11 | [Overview of Service Accounts][PlDk] |
 | 12 | [Service Accounts - Points to Note][PlDl] |
@@ -34,7 +34,7 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 [PlDf]: <./ingress.md>
 [PlDg]: <./ingress-controller.md>
 [PlDh]: <./install-helm.md>      
-[PlDi]: <./first-helm-chart.md>
+[PlDi]: <./helm-practical.md>
 [PlDj]: <./namespace.md>
 [PlDk]: <./service-account.md>
 [PlDl]: <./sa-pointers.md>
