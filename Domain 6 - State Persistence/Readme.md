@@ -10,16 +10,17 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | Sr No | Document Link |
 | ------ | ------ |
 | 1 | [emptyDir Volume][PlDa] |
-| 1 | [hostPath Volume][PlDb] |
-| 2 | [Practical - PV and PVC][PlDc] |
-| 3 | [Practical 1 - ConfigMaps (Creation)][PlDd]
-| 4 | [Practical 2 - ConfigMaps (Mounting to Pods)][Ple]
-| 5 | [Security Contexts][PlDf]
-
+| 2 | [hostPath Volume][PlDb] |
+| 3 | [Practical - PV and PVC][PlDc] |
+| 4 | [Practical 1 - ConfigMaps (Creation)][PlDd]
+| 5 | [Practical 2 - ConfigMaps (Mounting to Pods)][PlDe]
+| 6 | [Security Contexts][PlDf]
+| 7 | [Privileged Pods][PlDg]
 
    [PlDa]: <./emptydir.md>
    [PlDb]: <./hostPath.md>
    [PlDc]: <./pv-pvc.md>
    [PlDd]: <./configmap-01.md>
    [PlDe]: <./configmap-02.md>
-   [PlDf]: <./pod-securitycontext.yaml>
+   [PlDf]: <./security-context.md>
+   [PlDg]: <./privileged-pod.md>
