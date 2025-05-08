@@ -89,7 +89,7 @@ kubectl delete -f limitranges-eg1.yaml
 ```
 ## Example 2 - Set Minimum/Maximum  for a Namespace
 ```sh
-nano limitrange-eg2.yaml
+nano limitranges-eg2.yaml
 ```
 ```sh
 apiVersion: v1
@@ -109,7 +109,7 @@ spec:
 ```
 
 ```sh
-kubectl create -f limitrange-eg2.yaml
+kubectl create -f limitranges-eg2.yaml
 ```
 ```sh
 kubectl describe limitrange stricter-limits -n lr-demo

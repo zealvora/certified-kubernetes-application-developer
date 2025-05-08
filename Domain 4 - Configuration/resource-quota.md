@@ -101,5 +101,5 @@ kubectl run test-pod-2 --image=nginx -n quota-demo
 ```sh
 kubectl delete pods --all -n quota-demo --force
 
-kubectl delete namespae quota-demo
+kubectl delete namespace quota-demo
 ```
