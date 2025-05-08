@@ -89,7 +89,7 @@ spec:
 kubectl create -f object-quota.yaml
 ```
 
-#### Test 2 - Launch 3 Pods
+#### Test 2 - Launch two Pods
 
 ```sh
 kubectl run test-pod-1 --image=nginx -n quota-demo
