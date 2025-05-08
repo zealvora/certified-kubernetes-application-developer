@@ -2,7 +2,7 @@
 
 https://kubernetes.io/docs/concepts/policy/limit-range/
 
-## Example 1 - Set Default Request/Limits for a Container
+## Use-Case 1 - Set Default Request/Limits for a Container
 ```sh
 kubectl create namespace lr-demo
 ```
@@ -87,7 +87,7 @@ kubectl delete -f test-pod-2.yaml
 
 kubectl delete -f limitranges-eg1.yaml
 ```
-## Example 2 - Set Minimum/Maximum  for a Namespace
+## Use-Case 2 - Set Minimum/Maximum for a Container
 ```sh
 nano limitranges-eg2.yaml
 ```
