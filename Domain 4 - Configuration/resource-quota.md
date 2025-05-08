@@ -20,10 +20,10 @@ metadata:
   namespace: quota-demo
 spec:
   hard:
-    requests.cpu: "200m"
-    requests.memory: "256Mi"
-    limits.cpu: "300m"
-    limits.memory: "512Mi"
+    requests.cpu: "100m"
+    requests.memory: "128Mi"
+    limits.cpu: "200m"
+    limits.memory: "256Mi"
 ```
 
 ```sh
@@ -47,7 +47,10 @@ spec:
     command: ["sleep", "3600"]
     resources:
       requests:
-        cpu: "201m"
+        cpu: "101m"
+        memory: "128Mi"
+      limits:
+        cpu: "101m"
         memory: "128Mi"
 ```
 ```sh
