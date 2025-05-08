@@ -2,7 +2,7 @@
 
 https://kubernetes.io/docs/concepts/policy/limit-range/
 
-## Example 1 - Set Default Request/Limits for a Namespace
+## Example 1 - Set Default Request/Limits for a Container
 ```sh
 kubectl create namespace lr-demo
 ```
