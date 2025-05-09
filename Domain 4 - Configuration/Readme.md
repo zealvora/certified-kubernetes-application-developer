@@ -12,9 +12,11 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 1 | [Kubernetes Secrets][PlDa] |
 | 2 | [Mounting Secrets Inside Pods][PlDb] |
 | 3 | [Requests and Limits][PlDc]
-
-
+| 4 | [Limit Ranges][PlDd]
+| 5 | [Practical - Resource Quota][PlDe]
 
    [PlDa]: <./secret-data.md>
    [PlDb]: <./mounting-secrets.md>
    [PlDc]: <./requests-limits.md>
+   [PlDd]: <./limit-ranges.md>
+   [PlDe]: <./resource-quota.md>

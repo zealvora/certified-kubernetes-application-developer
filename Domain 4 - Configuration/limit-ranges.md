@@ -144,7 +144,7 @@ spec:
 kubectl create -f test-pod-3.yaml
 ```
 
-### Test Case 3: Above Maximum Limit
+### Test Case 2: Above Maximum Limit
 ```sh
 nano test-pod-4.yaml
 ```
