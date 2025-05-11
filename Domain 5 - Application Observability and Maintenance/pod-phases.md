@@ -52,3 +52,9 @@ kubectl get pods
 kubectl run failpod --image=busybox --restart=Never -- /bin/sh -c "exit 1"
 ```
 
+### Additional Testing
+```sh
+kubectl run nginx-pod --image=nginx:notexistent
+
+kubectl run curl-pod --image=alpine/curl
+```
