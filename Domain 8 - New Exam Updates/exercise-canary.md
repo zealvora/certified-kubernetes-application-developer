@@ -35,7 +35,6 @@ kind: Service
 metadata:
  name: app-service
 spec:
- type: NodePort
  ports:
  - name: http
    port: 80
