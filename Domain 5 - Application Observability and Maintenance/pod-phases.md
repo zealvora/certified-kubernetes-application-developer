@@ -49,14 +49,6 @@ kubectl get pods
 
 ### Failed Phase Example
 ```sh
-kubectl run nginx-pod --image=nginx:notexistent
-
-kubectl run curl-pod --image=alpine/curl
+kubectl run failpod --image=busybox --restart=Never -- /bin/sh -c "exit 1"
 ```
-```sh
-kubectl get pods
 
-kubectl logs curl-pod
-
-kubectl get pod nginx-pod -o yaml
-```
