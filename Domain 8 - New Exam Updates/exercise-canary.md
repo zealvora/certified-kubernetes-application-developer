@@ -5,9 +5,9 @@ Total Pods Needed = `5`
 
 Canary Percentage = `20%`
 
-Canary Pods = `round(Total Pods × Desired Percentage)`
+Canary Pods = `round(Total Pods × (Desired Percentage / 100))`
 
-Final Result = `round(5 x 0.2) = 1`
+Final Result = `round(5 x (20/100) = 1`
 
 ### Step 2 - Create Deployments
 ```sh
