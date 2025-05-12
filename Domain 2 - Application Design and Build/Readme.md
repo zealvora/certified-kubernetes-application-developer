@@ -17,7 +17,9 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 6 | [DaemonSet - Practical][PlDf]
 | 7 | [Practical - Jobs][PlDg]
 | 8 | [Jobs Field - ActiveDeadLineSeconds][PlDh]
-| 9 | [Practical - CronJob][PlDi]
+| 9 | [Jobs - backoffLimit][PlDi]
+| 9 | [Practical - CronJob][PlDj]
+
  
    [PlDa]: <./labels.md>
    [PlDb]: <./replicaset.md>
@@ -27,4 +29,5 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
    [PlDf]: <./daemonset.md> 
    [PlDg]: <./jobs.md>
    [PlDh]: <./activeDeadlineSeconds.md>
-   [PlDi]: <./cronjob.md>
+   [PlDi]: <./jobs-backofflimit.md
+   [PlDj]: <./cronjob.md>
