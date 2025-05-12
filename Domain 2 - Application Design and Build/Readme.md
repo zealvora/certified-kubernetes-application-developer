@@ -1,4 +1,4 @@
-# Domain 2 - POD Design
+# Domain 2 - Application Design and Build
 
 The code mentioned in this document are used in the Certified Kubernetes Application Developer 2025 course.
 
@@ -18,7 +18,7 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 7 | [Practical - Jobs][PlDg]
 | 8 | [Jobs Field - ActiveDeadLineSeconds][PlDh]
 | 9 | [Jobs - backoffLimit][PlDi]
-| 9 | [Practical - CronJob][PlDj]
+| 10 | [Practical - CronJob][PlDj]
 
  
    [PlDa]: <./labels.md>
@@ -29,5 +29,5 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
    [PlDf]: <./daemonset.md> 
    [PlDg]: <./jobs.md>
    [PlDh]: <./activeDeadlineSeconds.md>
-   [PlDi]: <./jobs-backofflimit.md
+   [PlDi]: <./jobs-backofflimit.md>
    [PlDj]: <./cronjob.md>
