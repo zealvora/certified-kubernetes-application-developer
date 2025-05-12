@@ -10,16 +10,14 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | Sr No | Document Link |
 | ------ | ------ |
 | 1 | [Implementing Blue-Green Deployments][PlDa] |
-| 2 | [Implementing Canary Deployments][PlDb] |
-| 3 | [Custom Resource Definition (CRDs)][PlDb] |
-| 4 | [Custom Resources in Kubernetes][PlDc] |
-| 5 | [Creating Token for RBAC Practicals][PlDd] |
-| 6 | [Practical - Role and RoleBinding][PlDe] |
+| 2 | [Exercise - Canary Deployment][PlDb] |
+| 3 | [Custom Resource Definition (CRDs)][PlDc] |
+| 4 | [Creating Token for RBAC Practicals][PlDd] |
+| 5 | [Practical - Role and RoleBinding][PlDe] |
 
 
 [PlDa]: <./blue-green.md>
-[PlDb]: <./canary.md>
+[PlDb]: <./exercise-canary.md>
 [PlDc]: <./crds.md>
-[PlDd]: <./custom-resource.md>
-[PlDe]: <./user-rbac.md>
-[PlDf]: <./role-rolebinding.md>
+[PlDd]: <./user-rbac.md>
+[PlDe]: <./role-rolebinding.md>

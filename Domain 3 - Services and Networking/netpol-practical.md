@@ -1,7 +1,7 @@
 
 ### Base Network Policy
 
-base-netpol.yaml
+`base-netpol.yaml`
 
 ```sh
 apiVersion: networking.k8s.io/v1
@@ -11,7 +11,8 @@ metadata:
 ```
 
 ### Example 1
-example-1.yaml
+`example-1.yaml`
+
 ```sh
 apiVersion: networking.k8s.io/v1
 kind: NetworkPolicy
@@ -50,7 +51,7 @@ ping google.com
 kubectl delete -f example-1.yaml
 ```
 ### Example 2
-example-2.yaml
+`example-2.yaml`
 ```sh
 apiVersion: networking.k8s.io/v1
 kind: NetworkPolicy
@@ -84,7 +85,7 @@ ping <IP-OF-TEST-POD>
 ```
 
 ### Example 3
-example-3.yaml
+`example-3.yaml`
 ```sh
 apiVersion: networking.k8s.io/v1
 kind: NetworkPolicy
@@ -110,7 +111,7 @@ kubectl exec -it suspicious-pod --sh
 ping google.com
 ```
 ### Example 4
-example-4.yaml
+`example-4.yaml`
 ```sh
 apiVersion: networking.k8s.io/v1
 kind: NetworkPolicy
@@ -149,7 +150,7 @@ kubectl delete -f example-4.yaml
 ```
 
 ### Example 5
-example-5.yaml
+`example-5.yaml`
 ```sh
 apiVersion: networking.k8s.io/v1
 kind: NetworkPolicy
@@ -186,7 +187,7 @@ ping <Prod-POD-IP-Of-Production-namespace>
 kubectl delete -f example-5.yaml
 ```
 ### Example 6
-example-6.yaml
+`example-6.yaml`
 ```sh
 apiVersion: networking.k8s.io/v1
 kind: NetworkPolicy

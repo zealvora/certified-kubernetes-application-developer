@@ -14,9 +14,13 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 3 | [Requests and Limits][PlDc]
 | 4 | [Limit Ranges][PlDd]
 | 5 | [Practical - Resource Quota][PlDe]
+| 6 | [Pod Lifecycle Phases][PlDf]
+| 7 | [Container Restart Policy][PlDg]
 
    [PlDa]: <./secret-data.md>
    [PlDb]: <./mounting-secrets.md>
    [PlDc]: <./requests-limits.md>
    [PlDd]: <./limit-ranges.md>
    [PlDe]: <./resource-quota.md>
+   [PlDf]: <./pod-phases.md>
+   [PlDg]: <./restartPolicy.md>

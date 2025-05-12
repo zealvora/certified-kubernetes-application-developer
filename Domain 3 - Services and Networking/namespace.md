@@ -1,14 +1,14 @@
 
 ### Fetch Pod Details
-
+```sh
 kubectl get pods
 
 kubectl get pods --all-namespaces
-
+```
 ### Running Pod in Default Namespace
-
+```sh
 kubectl run test-pod --image=nginx
-
+```
 
 #### List PODS in a specific namespace:
 ```sh

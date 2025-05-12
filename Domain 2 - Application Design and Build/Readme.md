@@ -25,6 +25,6 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
    [PlDd]: <./deployment.md>
    [PlDe]: <./maxSurge-maxUnavailable.md> 
    [PlDf]: <./daemonset.md> 
-   [PlDg]: <./jobs.yaml>
+   [PlDg]: <./jobs.md>
    [PlDh]: <./activeDeadlineSeconds.md>
    [PlDi]: <./cronjob.md>

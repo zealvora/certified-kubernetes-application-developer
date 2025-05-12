@@ -11,10 +11,10 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | ------ | ------ |
 | 1 | [Adapter Container][PlDa] |
 | 2 | [Ambssador Container][PlDb] |
-| 3 | [Init Containers][PlDb] |
+| 3 | [Init Containers][PlDc] |
 
 
 
 [PlDa]: <./adapter.yaml>
 [PlDb]: <./ambassador.yaml>
-[PlDb]: <./init-containers.md>
+[PlDc]: <./init-containers.md>
