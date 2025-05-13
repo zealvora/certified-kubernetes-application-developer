@@ -19,6 +19,7 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 8 | [Jobs Field - ActiveDeadLineSeconds][PlDh]
 | 9 | [Jobs - backoffLimit][PlDi]
 | 10 | [Practical - CronJob][PlDj]
+| 11 | [Job History Limits][PlDk]
 
  
    [PlDa]: <./labels.md>
@@ -31,3 +32,4 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
    [PlDh]: <./activeDeadlineSeconds.md>
    [PlDi]: <./jobs-backofflimit.md>
    [PlDj]: <./cronjob.md>
+   [PlDk]: <./jobs-history-limit.md>

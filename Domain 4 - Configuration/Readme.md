@@ -16,6 +16,7 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 5 | [Practical - Resource Quota][PlDe]
 | 6 | [Pod Lifecycle Phases][PlDf]
 | 7 | [Container Restart Policy][PlDg]
+| 8 | [Pod and Environment Variables][PlDh]
 
    [PlDa]: <./secret-data.md>
    [PlDb]: <./mounting-secrets.md>
@@ -24,3 +25,4 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
    [PlDe]: <./resource-quota.md>
    [PlDf]: <./pod-phases.md>
    [PlDg]: <./restartPolicy.md>
+   [PlDh]: <./pod-env-variables.md>
