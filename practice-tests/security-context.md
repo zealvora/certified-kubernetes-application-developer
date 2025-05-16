@@ -1,6 +1,6 @@
 ### Challenge - Security Context
 
-Deploy a busybox pod named `security-pod` in the default namespace that meets the following security requirements:
+Deploy a Pod from the `busybox:latest` image. Pod should be named `security-pod` and it must be created in the default namespace. The Pod must meet the following security requirements:
 
 1. Run all containers with UID of `1001`
 
