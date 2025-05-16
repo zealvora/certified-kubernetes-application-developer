@@ -2,13 +2,13 @@
 
 ### Background
 
-You are a Kubernetes administrator responsible for maintaining applications on a Kubernetes cluster that has recently been upgraded to the latest version. You've discovered an old deployment manifest file, `old-nginx-deployment.yaml`, which was used to deploy an Nginx application on a much older Kubernetes version (1.15).
+You are a Kubernetes administrator responsible for maintaining applications on a Kubernetes cluster that has recently been upgraded to the latest version. You've discovered an old deployment manifest file, `old-deployment.yaml`, which was used to deploy an Nginx application on a much older Kubernetes version (1.15).
 
 This manifest file is no longer compatible with the current Kubernetes API versions and will fail if applied directly.
 
 ### Your Task
 
-Your goal is to update the `old-nginx-deployment.yaml` manifest to make it compatible with your current Kubernetes environment. The application's core requirements—running 3 replicas of Nginx image must remain the same. In case if any container errors, save the logs to error-container.txt
+Your goal is to update the `old-deployment.yaml` manifest to make it compatible with your current Kubernetes environment. In case if any container errors, save the logs to error-container.txt
 
 `old-deployment.yaml`
 ```sh
