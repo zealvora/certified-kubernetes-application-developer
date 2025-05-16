@@ -2,7 +2,7 @@
 
 ### Background
 
-You are a Kubernetes administrator responsible for maintaining applications on a Kubernetes cluster that has recently been upgraded to version 1.32. You've discovered an old deployment manifest file, `old-nginx-deployment.yaml`, which was used to deploy an Nginx application on a much older Kubernetes version (1.15).
+You are a Kubernetes administrator responsible for maintaining applications on a Kubernetes cluster that has recently been upgraded to the latest version. You've discovered an old deployment manifest file, `old-nginx-deployment.yaml`, which was used to deploy an Nginx application on a much older Kubernetes version (1.15).
 
 This manifest file is no longer compatible with the current Kubernetes API versions and will fail if applied directly.
 
