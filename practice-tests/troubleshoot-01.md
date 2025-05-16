@@ -19,6 +19,6 @@ Fix the  issue preventing the application within the `mypod-lister` deployment's
 
 #### Hints:
 
-A ServiceAccount named `pod-lister-sa` exists.
+A ServiceAccount named `pod-lister-sa` exists. Use this service account for the application Pods.
 
 A Role named `pod-reader-role` exists in the `dev-namespace` which grants permission to get, watch, and list pods.
