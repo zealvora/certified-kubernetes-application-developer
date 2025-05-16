@@ -33,7 +33,5 @@ spec:
         ports:
         - containerPort: 8080
 ```
-```sh
-kubectl create -f old-deployment.yaml
-```
+
 
