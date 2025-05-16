@@ -5,7 +5,7 @@
 Run the following command to setup the environement
 
 ```sh
-kubectl create -f https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/practice-tests/sa.yaml
+kubectl create -f https://raw.githubusercontent.com/zealvora/certified-kubernetes-application-developer/refs/heads/master/practice-tests/sa.yaml
 ```
 ### 2 - Question:
 
