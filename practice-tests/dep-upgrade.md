@@ -8,7 +8,7 @@ This manifest file is no longer compatible with the current Kubernetes API versi
 
 ### Your Task
 
-Your goal is to update the `old-nginx-deployment.yaml` manifest to make it compatible with your current Kubernetes environment. The application's core requirements—running 3 replicas of Nginx—must remain the same.
+Your goal is to update the `old-nginx-deployment.yaml` manifest to make it compatible with your current Kubernetes environment. The application's core requirements—running 3 replicas of Nginx image must remain the same. In case if any container errors, save the logs to error-container.txt
 
 `old-deployment.yaml`
 ```sh
