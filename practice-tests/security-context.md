@@ -1,6 +1,6 @@
 ### Challenge - Security Context
 
-Deploy an NGINX pod named `security-pod` in the default namespace that meets the following security requirements:
+Deploy a busybox pod named `security-pod` in the default namespace that meets the following security requirements:
 
 1. Run all containers with UID of `1001`
 
