@@ -1,6 +1,6 @@
 ### Challenge - Canary Deployment
 
-### Tasks: (Complete each step sequentially) 
+#### Tasks: (Complete each step sequentially) 
 
 1. Create a deploymet named `app-v1` that has 5 replicas and uses image of `nginx:latest `
 
