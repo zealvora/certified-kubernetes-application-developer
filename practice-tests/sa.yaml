@@ -1,11 +1,10 @@
-# namespaece.yaml
+# namespace.yaml
 ---
 apiVersion: v1
 kind: Namespace
 metadata:
   name: dev-namespace
 
---- 
 # role.yaml
 ---
 apiVersion: rbac.authorization.k8s.io/v1

@@ -5,16 +5,17 @@
 Run the following command to setup the environement
 
 ```sh
-kubectl create -f sa.yaml
+kubectl create -f https://github.com/zealvora/certified-kubernetes-application-developer/blob/master/practice-tests/sa.yaml
 ```
 ### 2 - Question:
 
-A deployment named `mypod-lister` is failing. The pods managed by this deployment are trying to list other pods in the same namespace as part of their startup routine, but they are encountering permission errors.
+Application in the Pods that are part of the deployment named `mypod-lister` are failing. Application in the pods managed by this deployment are trying to list other pods in the same namespace as part of their startup routine, but they are encountering permission errors.
 
 
 #### Task:
 
-Fix the issue so that the Pods of the deployment are able to list other pods in the namespace. Verify the pod logs to check this.
+Fix the  issue preventing the application within the `mypod-lister` deployment's pods from listing other pods in the namespace. Validate the fix by inspecting the pod logs.
+
 
 #### Hints:
 
