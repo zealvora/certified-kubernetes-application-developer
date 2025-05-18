@@ -6,7 +6,7 @@ Create a Pod named `cpu-mem-limits` in the  namespace of `limits` that has a sin
 |:-------------:|:-----------------------------------------:|
 | Container name|                 nginx                     |
 |     Image     |            busybox:latest                 |
-|   Command     |               sleep for 100 seconds       |
+|   Command / Args     |               sleep for 100 seconds       |
 |    CPU Request  |                  20m                    |
 |    CPU Limit    |                  80m                    |
 |  Memory Request  |                 50Mi                   |
