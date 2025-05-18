@@ -8,7 +8,7 @@ This manifest file is no longer compatible with the current Kubernetes API versi
 
 ### Your Task
 
-Your goal is to update the `old-deployment.yaml` manifest to make it compatible with your current Kubernetes environment. In case if any container errors, save the logs to error-container.txt
+Your goal is to update the `old-deployment.yaml` manifest to make it compatible with your current Kubernetes environment. In case if any container errors, save the error logs to error-container.txt
 
 `old-deployment.yaml`
 ```sh
