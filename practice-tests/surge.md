@@ -13,4 +13,4 @@ You are managing a Kubernetes Deployment for a web application with `3` replicas
 
 Create a deployment named `kplabs-deployment` using image of `nginx:latest` that satisfies the requirements.
 
-Once the deployment is running, update the image of the deployment from `nginx:latest` to `httpd:latest`
+Once the deployment is running based on the above requirement, update the image of the deployment from `nginx:latest` to `httpd:latest`
