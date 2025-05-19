@@ -1,5 +1,5 @@
 
-## Exercise - Limit Ranges and NodePort Service
+## Challenge - Limit Ranges and NodePort Service
 
 1. Create a LimitRange object in the `test` namespace that enforces maximum memory of `500Mi`. The default cpu request should be `25m`.
 
