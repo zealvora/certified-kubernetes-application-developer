@@ -14,9 +14,10 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 3 | [Challenge 3 - Request and Limits][PlDc] |
 | 4 | [Challenge 4 - Troubleshooting][PlDd] |
 | 5 | [Challenge 5 - Canary Deployment][PlDe] |
-| 6 | [Challenge 6 - Security Context][PlDe] |
-| 7 | [Challenge 7 - CronJob][PlDe] |
-| 8 | [Challenge 8 - Deployment Updates][PlDe] |
+| 6 | [Challenge 6 - Security Context][PlDf] |
+| 7 | [Challenge 7 - CronJob][PlDg] |
+| 8 | [Challenge 8 - Deployment Updates][PlDh] |
+| 9 | [Challenge 8 - Limit Ranges and NodePort Service][PlDi] |
 
 [PlDa]: <./secrets.md>
 [PlDb]: <./dep-upgrade.md>
@@ -26,3 +27,4 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 [PlDf]: <./security-context.md>
 [PlDg]: <./cronjob.md>
 [PlDh]: <./surge.md>
+[PlDi]: <./limit-ranges.md>
