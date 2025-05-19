@@ -12,3 +12,5 @@ You are managing a Kubernetes Deployment for a web application with `3` replicas
 ### Task:
 
 Create a deployment named `kplabs-deployment` using image of `nginx:latest` that satisfies the requirements.
+
+Once the deployment is running, update the image of the deployment from `nginx:latest` to `httpd:latest`
