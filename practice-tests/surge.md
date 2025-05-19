@@ -1,7 +1,7 @@
 ## Challenge: Deployment Updates
 
 ### Context
-You are managing a Kubernetes Deployment for a web application with `3` replicas. Your application is critical, and you want to minimize downtime during a rolling update, but you also want the update to finish quickly.
+You are managing a Kubernetes Deployment for a web application with `3` replicas. Your application is critical, and you want to minimize downtime during a `rolling update`, but you also want the update to finish quickly.
 
 ### Requirement
 

@@ -15,7 +15,8 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 4 | [Challenge 4 - Troubleshooting][PlDd] |
 | 5 | [Challenge 5 - Canary Deployment][PlDe] |
 | 6 | [Challenge 6 - Security Context][PlDe] |
-
+| 7 | [Challenge 7 - CronJob][PlDe] |
+| 8 | [Challenge 8 - Deployment Updates][PlDe] |
 
 [PlDa]: <./secrets.md>
 [PlDb]: <./dep-upgrade.md>
@@ -23,3 +24,5 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 [PlDd]: <./troubleshoot-01.md>
 [PlDe]: <./exercise-canary.md>
 [PlDf]: <./security-context.md>
+[PlDg]: <./cronjob.md>
+[PlDh]: <./surge.md>

@@ -1,7 +1,7 @@
 ## Challenge:  CronJob
 
 ### Context
-You’re a Kubernetes engineer and need to implement a recurring maintenance task in the `default` namespace. Write a complete YAML manifest named `kplabs-cronjob.yaml` that meets **all** of the above requirements.
+You’re a Kubernetes engineer and need to implement a recurring maintenance task in the `default` namespace. Write a complete YAML manifest named `kplabs-cronjob.yaml` that meets **all** of the below requirements.
 
 ### Requirements
 
