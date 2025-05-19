@@ -10,13 +10,13 @@ You’re a Kubernetes engineer and need to implement a recurring maintenance tas
 
 2. **Job Configuration**
    - Image: `busybox`
-   - Command:  
+   - Command / Args:  
      ```shell
      echo "Hello from Kubernetes CronJob!"
      ```
 
 3. **History Limits**  
-   Prevent old Jobs/Pods from accumulating:
+   Prevent old Jobs/Pods from accumulating in your cluster.
    - Retain only the most recent `3` successful Job records.
    - Retain only the most recent `5` failed Job records.
 
