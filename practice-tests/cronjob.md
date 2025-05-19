@@ -22,7 +22,9 @@ You’re a Kubernetes engineer and need to implement a recurring maintenance tas
 
 4. **Timeout**
    - Terminate any Pod that runs longer than `25` seconds  
-
+5. **Delay**
+   - If the CronJob controller is down or the cluster is unavailable at the exact schedule time, allow missing runs to be started for up to `30` seconds after their original schedule
 5. **Restart Policy**
-   - Pods should restart **only on failure**  
+   - Pods should restart **only on failure**
+     
 
