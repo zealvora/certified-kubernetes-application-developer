@@ -5,7 +5,6 @@ The challenges mentioned in this document are used in the Certified Kubernetes A
 https://www.udemy.com/course/mastering-certified-kubernetes-application-developer/?referralCode=3A549BA24AC8ED6597DF
 
 
-# Video-Document Mapper
 
 | Sr No | Document Link |
 | ------ | ------ |
@@ -17,7 +16,7 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 | 6 | [Challenge 6 - Security Context][PlDf] |
 | 7 | [Challenge 7 - CronJob][PlDg] |
 | 8 | [Challenge 8 - Deployment Updates][PlDh] |
-| 9 | [Challenge 8 - Limit Ranges and NodePort Service][PlDi] |
+| 9 | [Challenge 9 - Limit Ranges and NodePort Service][PlDi] |
 
 [PlDa]: <./secrets.md>
 [PlDb]: <./dep-upgrade.md>
