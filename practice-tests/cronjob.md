@@ -6,7 +6,7 @@ You’re a Kubernetes engineer and need to implement a recurring maintenance tas
 ### Requirements
 
 1. **Schedule**
-   - Run every 1 minute.
+   - Run every 2 minutes.
 
 2. **Job Configuration**
    - Image: `busybox`
