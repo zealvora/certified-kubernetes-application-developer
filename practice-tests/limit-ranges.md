@@ -1,7 +1,7 @@
 
 ## Challenge - Limit Ranges and NodePort Service
 
-1. Create a LimitRange object in the `test` namespace that enforces maximum memory of `500Mi`. The default cpu request should be `25m`.
+1. Create a LimitRange object in the `test` namespace that enforces maximum memory of `500Mi` per container. The default cpu request should be `25m`.
 
 2. Create a Pod named `half-mem-pod` in the `test` namespace with a single container based on following specification.
 
