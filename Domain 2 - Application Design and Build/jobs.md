@@ -4,7 +4,7 @@
 ```sh
 kubectl create job --help
 
-kubectl create job ping-job --image=busybox:latest -- ping "-c" "5" "google.com
+kubectl create job ping-job --image=busybox:latest -- ping "-c" "5" "google.com"
 ```
 
 ### Verification of Job and Pods
@@ -18,7 +18,7 @@ kubectl describe job ping-job
 ```sh
 kubectl delete job ping-job
 
-kubectl create job ping-job --image=busybox:latest -- ping "-c" "100" "google.com
+kubectl create job ping-job --image=busybox:latest -- ping "-c" "100" "google.com"
 
 kubectl get pods
 
@@ -28,7 +28,7 @@ kubectl get pods
 ```
 ### Generate Manifest File For Job
 ```sh
-kubectl create job ping-job --image=busybox:latest --dry-run=client -o yaml -- ping "-c" "100" "google.com > jobs.yaml
+kubectl create job ping-job --image=busybox:latest --dry-run=client -o yaml -- ping "-c" "100" "google.com" > jobs.yaml
 ```
 
 ### Delete the Resources Created
