@@ -1,4 +1,4 @@
-# Certified Kubernetes Application Developer - KPLABS
+# Certified Kubernetes Application Developer 2026 - Zeal Vora
 
 This is a central document which contains all the commands and code files used throughout the video course.
 

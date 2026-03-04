@@ -1,6 +1,6 @@
 # Domain 4 - Observability
 
-The code mentioned in this document are used in the Certified Kubernetes Application Developer 2025 course.
+The code mentioned in this document are used in the Certified Kubernetes Application Developer 2026 course.
 
 https://www.udemy.com/course/mastering-certified-kubernetes-application-developer/
 
