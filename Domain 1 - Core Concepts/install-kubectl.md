@@ -14,6 +14,11 @@ chmod +x kubectl
 mv kubectl /usr/local/bin
 ```
 
+### Installing Kubectl on macOS
+```sh
+brew install kubectl
+```
+
 ### Verification
 ```sh
 kubectl

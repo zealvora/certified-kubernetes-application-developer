@@ -6,33 +6,36 @@ https://www.udemy.com/course/certified-kubernetes-administrator/?referralCode=70
 
 # Video-Document Mapper
 
-
 | Sr No | Document Link |
 | ------ | ------ |
-| 1 | [Installing Kubectl][PlDa] |
-| 2 | [Connecting kubectl to Kubernetes Cluster][PlDb] |
-| 3 | [Configuring Kubernetes Using Minikube][PlDc] |
-| 4 | [Basics of Pods][PlDd] |
-| 5 | [Multiple Ways to Create Kubernetes Objects][PlDe] |
-| 6 | [Basic Structure of a Manifest File][PlDf] |
-| 7 | [Generating Manifest File through CLI Command][PlDg] |
-| 8 | [Creating Multi-Container Pods][PlDh] |
-| 8 | [Overview of Command And Arguments][PlDi] |
-| 8 | [Practical - Commands and Arguments][PlDj] |
-| 8 | [More Clarity - Command and Arguments][PlDk] |
-| 9 | [CLI Documentation of Kubernetes Resources][PlDl] |
-| 10 | [Exposing Ports for PODS][PlDm] |
+| 1 | [Configuring Kind for Windows Systems][PlDa] |
+| 2 | [Configuring Kind for macOS Systems][PlDb] |
+| 3 | [Practical - Create Local Kubernetes Cluster with Kind][PlDc] |
+| 4 | [Downloading Kubectl][PlDd] |
+| 5 | [Configuring Kubernetes Using Minikube][PlDe] |
+| 6 | [Basics of Pods][PlDf] |
+| 7 | [Multiple Ways to Create Kubernetes Objects][PlDg] |
+| 8 | [Basic Structure of a Manifest File][PlDh] |
+| 9 | [Generating Manifest File through CLI Command][PlDi] |
+| 10 | [Creating Multi-Container Pods][PlDj] |
+| 11 | [Overview of Command And Arguments][PlDk] |
+| 12 | [Practical - Commands and Arguments][PlDl] |
+| 13 | [More Clarity - Command and Arguments][PlDm] |
+| 14 | [CLI Documentation of Kubernetes Resources][PlDn] |
+| 15 | [Exposing Ports for PODS][PlDo] |
 
-   [PlDa]: <./install-kubectl.md>
-   [PlDb]: <./kubectl-to-k8s.md>
-   [PlDc]: <./minikube-install.md>
-   [PlDd]: <./basic-pods.md>
-   [PlDe]: <./pod-manifest.md>
-   [PlDf]: <./manifest-structure.md>
-   [PlDg]: <./pod-manifest-cli.md>
-   [PlDh]: <./multi-container-pod.md>
-   [PlDi]: <./cmd-args-overview.md>
-   [PlDj]: <./cmd-args-practical.md>
-   [PlDk]: <./cmd-args-clarity.md>
-   [PlDl]: <./cli-doc.md>
-   [PlDm]: <./expose-pods.md>
+   [PlDa]: <./kind-windows.md>
+   [PlDb]: <./kind-macos.md>
+   [PlDc]: <./kind-basics.md>
+   [PlDd]: <./install-kubectl.md>
+   [PlDe]: <./minikube-install.md>
+   [PlDf]: <./basic-pods.md>
+   [PlDg]: <./pod-manifest.md>
+   [PlDh]: <./manifest-structure.md>
+   [PlDi]: <./pod-manifest-cli.md>
+   [PlDj]: <./multi-container-pod.md>
+   [PlDk]: <./cmd-args-overview.md>
+   [PlDl]: <./cmd-args-practical.md>
+   [PlDm]: <./cmd-args-clarity.md>
+   [PlDn]: <./cli-doc.md>
+   [PlDo]: <./expose-pods.md>
